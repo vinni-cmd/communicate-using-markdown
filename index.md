@@ -1,6 +1,10 @@
 # H1 Header
 #### H4 Header
 
+
+- [ ] Still to do
+- [x] Already done
+
 ```
 $ git init
 ```
